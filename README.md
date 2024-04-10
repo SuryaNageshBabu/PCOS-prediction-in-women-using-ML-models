@@ -1,2 +1,2 @@
-# PCOS-prediction-in-women-using-ML-models
+# PCOS prediction in women using ML models
 TBD
