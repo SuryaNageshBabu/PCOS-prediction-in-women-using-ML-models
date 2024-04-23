@@ -32,5 +32,10 @@ False negative rate: metric plays a key role in model evaluation when it comes t
 Here it is observed that both our models Linear regression and Decision Tree Classifier have a False negative rate of 28.30% and 26.41% , research Ferrer-Urbina et al. (2023) shows that the accepted threshold for false negatives is 25% and hence this could prove to be risky especially when working with the medical data, these women who have been falsely detected to not have PCOS are at risk and hence might miss out on necessary treatments for PCOS. Accuracy, Recall and Precision evaluation metrics: The decision tree classifier model performed better on both the other metrics except on the precision metric.
 
 
+## Get in touch
+
+Feel free to share your feedback. You can reachout to me through [Linkedin]("www.linkedin.com/in/suryanageshbabu")
+
+
 
 
