@@ -9,3 +9,10 @@
 
 
 ## Overview of the problem statement
+
+Polycystic ovary syndrome (PCOS) as stated by (Polycystic Ovary Syndrome (PCOS), 2022) is a disorder occurring in women who are most commonly in their childbearing age in which ovaries produce abnormal levels of male sex hormones namely androgens which otherwise are produced in very small amounts in women. The term polycystic syndrome is termed after its effects on the ovaries, women with PCOS develop small fluid-filled cysts in the ovaries. 
+
+Women with PCOS are prone to other serious health conditions like insulin resistance eventually resulting in weight gain and obesity etc. Therefore, prior detection of the symptoms or detecting the potential for an individual to develop this condition could result in requisite steps towardprevention.
+
+In this report, I have leveraged the potential of predictive analytics and machine learning algorithms to analyze and explore the relationship between the different biometric variables, and have trained different machine learning models to learn the hidden patterns and further have used them for predicting the presence of PCOS in individuals.
+
