@@ -16,3 +16,17 @@ Women with PCOS are prone to other serious health conditions like insulin resist
 
 In this report, I have leveraged the potential of predictive analytics and machine learning algorithms to analyze and explore the relationship between the different biometric variables, and have trained different machine learning models to learn the hidden patterns and further have used them for predicting the presence of PCOS in individuals.
 
+## Dataset
+
+The dataset that is used as a part of this project comprises data collected from 10 different hospitals across India. The dataset contains information on all the physical and clinical parameters used to detect the presence of Polycystic ovary syndrome in women. This dataset was downloaded directly from the Kaggle data repository.
+
+## Conclusion based on the performance evaluation metrics
+
+Now that I have successfully developed a model with different machine learning algorithms,we can now compare these models based on their performance metrics. 
+False negative rate: metric plays a key role in model evaluation when it comes to medical datasets, False negative rate emphasizes on the percentage of samples which are falsely predicted as Negative. 
+
+Here it is observed that both our models Linear regression and Decision Tree Classifier have a False negative rate of 28.30% and 26.41% , research Ferrer-Urbina et al. (2023) shows that the accepted threshold for false negatives is 25% and hence this could prove to be risky especially when working with the medical data, these women who have been falsely detected to not have PCOS are at risk and hence might miss out on necessary treatments for PCOS. Accuracy, Recall and Precision evaluation metrics: The decision tree classifier model performed better on both the other metrics except on the precision metric.
+
+
+
+
