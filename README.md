@@ -20,9 +20,9 @@ In this report, I have leveraged the potential of predictive analytics and machi
 
 The dataset that is used as a part of this project comprises data collected from 10 different hospitals across India. The dataset contains information on all the physical and clinical parameters used to detect the presence of Polycystic ovary syndrome in women. This dataset was downloaded directly from the Kaggle data repository.
 
-## The Process
+## The code and the process
 
-Here I have included a link to the document consisting the entire process, [PCOS detection](PCOS_PREDICTOR_SURYA NAGESH BABU.pdf)
+Please check the pdf document above in this repository consisting of the end-to-end entire process.
 
 ## Conclusion based on the performance evaluation metrics
 
